@@ -1,0 +1,6 @@
+{
+  "name": "Musica",
+  "description": "A real-time synchronized YouTube video watching room with admin play/pause controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
